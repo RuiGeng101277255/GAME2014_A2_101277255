@@ -1,25 +1,13 @@
 {
     "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
-        "deviceId": "emulator-5554",
-        "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
-        "processId": 3772,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
-        {
-            "deviceId": "emulator-5554",
-            "name": "com.android.settings",
-            "processId": 1705,
-            "exited": true
-        },
-        {
-            "deviceId": "emulator-5554",
-            "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
-            "processId": 3456,
-            "exited": true
-        },
         {
             "deviceId": "emulator-5554",
             "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
@@ -36,19 +24,25 @@
             "deviceId": "emulator-5554",
             "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
             "processId": 3357,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "emulator-5554",
             "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
             "processId": 3537,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "emulator-5554",
             "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
             "processId": 3772,
-            "exited": false
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
+            "processId": 4312,
+            "exited": true
         }
     ],
     "m_Tags": {

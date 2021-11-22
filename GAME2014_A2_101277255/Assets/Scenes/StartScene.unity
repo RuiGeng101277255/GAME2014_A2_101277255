@@ -4779,7 +4779,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Moving Falling Burning Slippery
+  m_Text: Moving Falling Slippery Explosive
 --- !u!222 &1066566018
 CanvasRenderer:
   m_ObjectHideFlags: 0
