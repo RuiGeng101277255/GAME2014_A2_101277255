@@ -3,7 +3,7 @@
  File Name: ScenePanelChange.cs
  Last Modified: November 21st, 2021
  Description: Changes from start to instruction, gameplay, and end panels
- Version History: v1.02
+ Version History: v1.02 - Loads scene
  */
 
 using System.Collections;
