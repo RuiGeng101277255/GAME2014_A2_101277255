@@ -1,5 +1,5 @@
 {
-    "m_SelectedDeviceId": "",
+    "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
         "deviceId": "",
         "name": "",
@@ -7,7 +7,32 @@
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownPackagesForSerialization": [],
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.android.settings",
+            "processId": 1705,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
+            "processId": 3456,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.RuiChenGengLi.GAME2014_A2_101277255",
+            "processId": 2915,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.ldmnq.launcher3",
+            "processId": 1928,
+            "exited": false
+        }
+    ],
     "m_Tags": {
         "m_Entries": [
             {
